@@ -1,4 +1,4 @@
-//: objects/E04_DataOnly.java
+package Objects;//: Objects/E04_DataOnly.java
 /*********************** Exercise 4 ******************************
  * Turn the code fragments involving DataOnly into a program that
  * compiles and runs
@@ -18,10 +18,5 @@ public class E04_DataOnly
         data.d = 1.1;
         data.b = false;
 
-        System.out.println("data.i = " + data.i);
-        System.out.println("data.d = " + data.d);
-        System.out.println("data.b = " + data.b);
     }
-
-
 }
