@@ -1,4 +1,4 @@
-
+package Objects;
 //: objects/E03_ANameType.java
 /*********************** Exercise 3 ******************************
  * Turn the code fragments involving ATypeName into a program that
