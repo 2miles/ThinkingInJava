@@ -1,5 +1,5 @@
-
-package Objects;//: Objects/E05_DataOnly_2.java
+package Objects;
+//: Objects/E05_DataOnly_2.java
 /*********************** Exercise 4 ******************************
  * Turn the code fragments involving DataOnly into a program that
  * compiles and runs
