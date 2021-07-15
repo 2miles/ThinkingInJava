@@ -1,4 +1,4 @@
-//: Objects/E10_ShowArgs.java
+//: Objects/E02_Alaising.java
 /*********************** Exercise 2 ******************************
  * Create a class containing a float and use it to demonstrate
  * aliasing during method calls.
